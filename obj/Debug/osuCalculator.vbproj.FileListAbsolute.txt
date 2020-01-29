@@ -1,0 +1,11 @@
+C:\Users\micha\source\repos\osuCalculator\osuCalculator\bin\Debug\osuCalculator.exe.config
+C:\Users\micha\source\repos\osuCalculator\osuCalculator\bin\Debug\osuCalculator.exe
+C:\Users\micha\source\repos\osuCalculator\osuCalculator\bin\Debug\osuCalculator.pdb
+C:\Users\micha\source\repos\osuCalculator\osuCalculator\bin\Debug\osuCalculator.xml
+C:\Users\micha\source\repos\osuCalculator\osuCalculator\obj\Debug\osuCalculator.vbprojAssemblyReference.cache
+C:\Users\micha\source\repos\osuCalculator\osuCalculator\obj\Debug\osuCalculator.Form1.resources
+C:\Users\micha\source\repos\osuCalculator\osuCalculator\obj\Debug\osuCalculator.Resources.resources
+C:\Users\micha\source\repos\osuCalculator\osuCalculator\obj\Debug\osuCalculator.vbproj.GenerateResource.cache
+C:\Users\micha\source\repos\osuCalculator\osuCalculator\obj\Debug\osuCalculator.exe
+C:\Users\micha\source\repos\osuCalculator\osuCalculator\obj\Debug\osuCalculator.xml
+C:\Users\micha\source\repos\osuCalculator\osuCalculator\obj\Debug\osuCalculator.pdb
